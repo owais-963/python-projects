@@ -1,0 +1,18 @@
+### How To Use Test Files 
+
+Steps:-
+
+	1. Open data encoding decoding.py file
+	2. Run Program in terminal
+  3. Enter option for encoding/decoding in input box
+      a. 1 for encoding
+      b. 2 for decoding
+  4. Enter File Name in input box
+  5. For encoding there are three type
+      a. Numeric
+      b. Alpha Numeric
+      c. Byte
+  6. Enter option for Numeric/Alpha Numeric/Byte in input box
+      a. 1 for Alpha Numeric
+      b. 2 for Alpha Numeric
+      c. 3 for Byte
